@@ -5,11 +5,11 @@ This module demonstrates how to INPUT from the CONSOLE:
   -- strings.
 
 Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
-         their colleagues and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+         their colleagues and Jonah Yates.
+"""  # Donoe: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 ########################################################################
-# TODO: 2.  Read and run this program.  Then do the following problems,
+# Done: 2.  Read and run this program.  Then do the following problems,
 #   putting your answers RIGHT HERE IN THIS DOCUMENT.
 #
 #   1. Write a line of code that would input an INTEGER from the
